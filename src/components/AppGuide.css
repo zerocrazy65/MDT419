@@ -1,0 +1,14 @@
+.Card_Guide{
+    padding: 60px;
+    width: 100%;
+    height: 300px;
+    background-image: linear-gradient(180deg, rgba(31, 31, 31, 1) 50%, rgba(255, 255, 255, 1) 51%);
+    /* background-image: url('https://preview.redd.it/3nh6ejmp3vt41.jpg?auto=webp&s=695020140f22e628ec6a2545fdd6d7f101dc4c2f'); */
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.card{
+    box-shadow: 2px 2px 8px 4px rgba(0, 0, 0, 0.1);
+}

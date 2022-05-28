@@ -1,0 +1,22 @@
+.bg-myRed{
+    background-color:#494BA7 ;
+}
+
+img{
+    width: 100px;
+}
+.NavRight{
+    font-size: 25px;
+}
+
+
+.cart span:nth-child(1){
+    font-size:20pt;
+}
+
+.cart span:nth-child(2){
+    padding: 0 5px;
+    border-radius: 5px;
+    position: relative;
+    top: 3px;
+}
